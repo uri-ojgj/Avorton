@@ -6,10 +6,6 @@
   font-family: "Noto Sans KR", sans-serif;
 }
 
-:root {
-  background: #f6f6f6;
-}
-
 * {
   margin: 0px;
   padding: 0px;
@@ -68,4 +64,55 @@ header a::before {
 
 header .logo {
   font-weight: bold;
+}
+
+/* main */
+main {
+  background: #f6f6f6;
+  height: 87vh;
+}
+
+/* footer */
+footer {
+  background: #3c3c3c;
+  height: 13vh;
+  margin: 0 auto;
+  align-items: center;
+}
+
+footer .top {
+  margin: 0 45%;
+  display: flex;
+  box-sizing: border-box;
+  width: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer .top a {
+  margin: 20px 0;
+  color: #8e8e8e;
+  text-decoration: none;
+}
+
+footer .top a:hover {
+  color: #f6f6f6;
+}
+
+footer .bottom {
+  margin: 0 41%;
+  display: flex;
+  box-sizing: border-box;
+  width: 350px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+footer .bottom a {
+  color: #8e8e8e;
+  text-decoration: none;
+}
+
+footer .bottom a:hover {
+  color: #f6f6f6;
 }
