@@ -87,7 +87,7 @@ main .sec01 div {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  top: -20px;
+  top: -10px;
   color: #f6f6f6;
 }
 
@@ -95,7 +95,7 @@ main .sec01 div .lottie {
   display: flex;
   justify-content: center;
   position: relative;
-  top: -10px;
+  top: 0px;
 }
 
 main .sec01 div h2 {
@@ -115,7 +115,7 @@ main .sec01 div .btGroup {
   justify-content: space-between;
   align-items: center;
   position: relative;
-  top: 40px;
+  top: 30px;
   text-decoration: none;
   background-color: transparent;
   padding: 10px 20px 10px 20px;
