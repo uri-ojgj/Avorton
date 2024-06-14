@@ -122,13 +122,14 @@ main .sec01 span h2 {
 
 .btGroup a.goThere {
   border: 1px solid #0000ff;
-  color: #0000ff;
+  background-color: #0000ff;
+  color: #f6f6f6;
 }
 
 .btGroup a.goThere:hover {
-  background-color: #0000ff;
+  background-color: #1b1bc4;
   color: #ffffff;
-  border: #0000ff;
+  border: 1px solid #1b1bc4;
 }
 
 /* main to wrap secotion 02, 03 */
