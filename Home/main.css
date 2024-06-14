@@ -157,7 +157,7 @@ main .sec02 {
   border-radius: 10px;
 }
 
-main .sec02 span {
+main .sec02 div {
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -166,12 +166,12 @@ main .sec02 span {
   color: #f6f6f6;
 }
 
-main .sec02 span h2 {
+main .sec02 div h2 {
   font-size: 40px;
   font-weight: bold;
 }
 
-main .sec02 span a {
+main .sec02 div a {
   justify-content: space-between;
   align-items: center;
   position: relative;
@@ -184,7 +184,7 @@ main .sec02 span a {
   color: #f6f6f6;
 }
 
-main .sec02 span a:hover {
+main .sec02 div a:hover {
   background-color: #f6f6f6;
   color: #3a3a3a;
 }
@@ -201,21 +201,21 @@ main .sec03 {
   border-radius: 10px;
 }
 
-main .sec03 span {
+main .sec03 div {
   display: block;
   margin: 0 auto;
   text-align: center;
   position: relative;
-  top: 60px;
+  top: 5px;
   color: #3a3a3a;
 }
 
-main .sec03 span h2 {
+main .sec03 div h2 {
   font-size: 40px;
   font-weight: bold;
 }
 
-main .sec03 span a {
+main .sec03 div a {
   justify-content: space-between;
   align-items: center;
   position: relative;
@@ -228,7 +228,7 @@ main .sec03 span a {
   color: #3a3a3a;
 }
 
-main .sec03 span a:hover {
+main .sec03 div a:hover {
   background-color: #3a3a3a;
   color: #f6f6f6;
 }
