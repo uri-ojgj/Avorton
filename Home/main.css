@@ -79,6 +79,7 @@ main .sec01 {
   height: 40vh;
   position: relative;
   top: 60px;
+  border-radius: 10px;
 }
 
 main .sec01 div {
@@ -153,6 +154,7 @@ main .sec02 {
   height: 40vh;
   position: relative;
   top: 75px;
+  border-radius: 10px;
 }
 
 main .sec02 span {
@@ -196,6 +198,7 @@ main .sec03 {
   position: relative;
   top: 75px;
   left: 1%;
+  border-radius: 10px;
 }
 
 main .sec03 span {
