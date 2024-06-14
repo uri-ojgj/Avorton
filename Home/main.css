@@ -142,9 +142,10 @@ main .sec01 div .btGroup {
 }
 
 /* main to wrap secotion 02, 03 */
-main div {
+main .wrap {
   display: flex;
-  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 /* main > sec02 */
@@ -152,7 +153,7 @@ main .sec02 {
   display: flex;
   box-sizing: border-box;
   background-color: #3a3a3a;
-  width: 50%;
+  width: 49.5%;
   height: 40vh;
   position: relative;
   top: 75px;
@@ -191,15 +192,23 @@ main .sec02 div a:hover {
   color: #3a3a3a;
 }
 
+main .sec02 div .lottie {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 250px;
+  position: relative;
+  top: 30px;
+}
+
 main .sec03 {
   display: flex;
   box-sizing: border-box;
   background-color: #e8e8e8;
-  width: 49%;
+  width: 49.5%;
   height: 40vh;
   position: relative;
   top: 75px;
-  left: 1%;
   border-radius: 10px;
 }
 
