@@ -233,6 +233,11 @@ main .sec03 div a:hover {
   color: #f6f6f6;
 }
 
+main .sec03 div .lottie {
+  display: flex;
+  justify-content: center;
+}
+
 /* footer */
 footer {
   background: #3c3c3c;
