@@ -29,5 +29,5 @@
   <br>
   <h1>🌷 : 모든 링크</h1>
   <a href="https://www.figma.com/design/i5l8ALCqu3KN7zusmcoGU7/Avorton-site-design?node-id=0-1&t=7EmgRoWlv70Sk71p-1">피그마 디자인보드 가보기</a><br>
-  <a href="https://avorton.vercel.app">웹사이트 링크</a>
+  <a href="#">웹사이트 링크 (점검중이에요 !)</a>
 </div>
