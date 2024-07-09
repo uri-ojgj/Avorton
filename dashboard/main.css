@@ -49,3 +49,25 @@ body {
   background: rgba(255, 255, 255, 0.15);
   border-radius: 0px 20px 20px 0px;
 }
+
+.left .lRight .block {
+  display: flex;
+  width: 267px;
+  height: 990px;
+  padding: 40px 10px 10px 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  flex-shrink: 0;
+}
+
+.left .lRight .block .fa-chevron-left {
+  flex-shrink: 0;
+  color: #727272;
+}
+
+/* hover action */
+.left .lRight .block .fa-chevron-left:hover {
+  flex-shrink: 0;
+  color: #000000;
+}
